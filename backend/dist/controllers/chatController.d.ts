@@ -8,4 +8,4 @@ declare class ChatController {
 }
 declare const _default: ChatController;
 export default _default;
-//# sourceMappingURL=chatController.d.ts.map
+//# sourceMappingURL=chatController.d.ts.map</any>
